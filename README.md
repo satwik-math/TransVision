@@ -43,6 +43,8 @@ The Vision Transformer model consists of multiple layers of self-attention mecha
 ## Results
 After training the Vision Transformer model on the MNIST dataset, we achieved an accuracy of approximately 98% on the test data. The training logs and model weights are saved in the specified directory for further analysis and deployment.
 
+Note: With alterations on iteration number and batch_size, we have achieved > 99.15% val_accuracy on test data.
+
 ## Acknowledgments
 - This implementation is inspired by the original Vision Transformer paper: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929).
 - The MNIST dataset is sourced from the TensorFlow/Keras library.
