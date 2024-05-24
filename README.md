@@ -15,13 +15,7 @@ This repository contains a TensorFlow implementation of a Vision Transformer (Vi
     git clone <https://github.com/satwik-math/TransVision>
     ```
 
-2. Install the dependencies:
-
-    ```
-    pip install -r requirements.txt
-    ```
-
-3. Run the script:
+2. Run the script:
 
     ```
     python transvision.py
